@@ -9,4 +9,7 @@ public class Helper3 {
 	
 //change still in master
 	//fix issue1
+//in branch1 first commit?
+	
+//more change in branch1
 }
