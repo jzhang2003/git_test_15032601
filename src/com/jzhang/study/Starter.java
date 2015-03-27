@@ -34,5 +34,9 @@ public class Starter {
 		
 		
 		
+<<<<<<< HEAD
+=======
+
+>>>>>>> 12f027c... dsf
 	}
 }
