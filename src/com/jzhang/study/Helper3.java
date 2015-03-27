@@ -12,4 +12,5 @@ public class Helper3 {
 //in branch1 first commit?
 	
 //more change in branch1
+//changed
 }
